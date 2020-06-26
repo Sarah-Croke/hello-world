@@ -1,2 +1,7 @@
 # hello-world
-A short description
+
+Hello github,
+
+I am following your lovely tutorial, thank you!
+
+Sarah
